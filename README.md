@@ -14,7 +14,7 @@ If you want to test it locally, you can follow the following steps to install an
 #### Steps
 
 First, clone the repository:
-```git clone https://github.com/mablds/simple-bank-system.git ```
+```git clone https://github.com/7Gabriel/backend.git ```
 
 Then install it using the dependecy manager of your preference like NPM:
 ```npm install```
